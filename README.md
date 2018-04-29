@@ -3,7 +3,7 @@
 <p>Below is the example code of php intigration of Cdt.li url shortener service </p>
 <pre>
 &lt;?php 
-require($_SERVER["DOCUMENT_ROOT"]."/api/cdtService.php");
+require($_SERVER["DOCUMENT_ROOT"]."/lib/cdtService.php");
 $cdt = new cdtService("JKLJHCXD78764"); //Secret Key
 $cdt->setPrivate($true); //Optional
 $cdt->enableAnalytics($true); //Optional
