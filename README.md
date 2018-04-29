@@ -1,4 +1,5 @@
 # Cdt.Li Free and Easy to use URL shortener
+<h2> Register for secret key at https://cdt.li </h2>
 <h2>Free and Easy to use short URL service</h2>
 <p>Below is the example code of php intigration of Cdt.li url shortener service </p>
 <pre>
