@@ -1,4 +1,4 @@
-# Cdt.li
+# Cdt.li Free and Easy to use URL shortener
 <h2>Free and Easy to use short URL service</h2>
 <p>Below is the example code of php intigration of Cdt.li url shortener service </p>
 <pre>
