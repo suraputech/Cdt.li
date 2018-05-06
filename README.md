@@ -12,8 +12,4 @@ echo $cdt->getShortUrl("https://www.facebook.com"); //Get Short URL
 ?&gt;
 </pre>
 <h3> Use Short URL widget </h3>
-<div id="cdt_widget"></div>
-<script async src="//cdt.li/widget.js"></script>
-<pre>
 
-</pre>
