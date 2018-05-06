@@ -17,6 +17,7 @@ echo $cdt->getShortUrl("https://www.facebook.com"); //Get Short URL
      <li> Easy intigration in any webpage. </li> 
      <li> Widget loads after all page content, no effect on performance </li>    
     </ul>
+<img src="https://raw.githubusercontent.com/suraputech/Cdt.li/master/cdt_li_widget.png"/>    
 <pre>
 &lt;div id="cdt_widget"&gt;&lt;/div&gt;
 &lt;script async src="//cdt.li/widget.js"&gt;&lt;/script&gt;
